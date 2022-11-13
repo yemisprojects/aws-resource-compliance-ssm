@@ -1,6 +1,6 @@
 <h2 align="center">Automate Custom Config Rule Remediation with SSM</h2>
 
-![Solution](https://github.com/yemisprojects/aws-resource-compliance/blob/main/images/soln_architecture.png)
+![Solution](https://github.com/yemisprojects/aws-resource-compliance-ssm/blob/main/images/SolutionArchitecture.jpg)
 <h4 align="center">Architecture diagram</h4>
 
 <h2 align="center">Technical overview</h2>
