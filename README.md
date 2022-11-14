@@ -14,11 +14,11 @@ The solution consists of the following services; AWS Config, Lambda, EventBridge
 
 ## Deployment Steps
 
-To receive notifications, provide email address(es) to the variables in the terraform.tfvars file after cloning the repository
+To receive notifications, provide email address(es) to the variables in the terraform.tfvars file after cloning the repository. See an example below.
 
 ```
-sender_email_address = ""
-sns_email_address = ""
+sender_email_address = "example@gmail.com"
+sns_email_address = "example@gmail.com"
 ```
 
 ```bash
