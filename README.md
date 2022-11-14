@@ -1,4 +1,4 @@
-<h2 align="center">Automate Custom Config Rule Remediation with SSM</h2>
+<h2 align="center">Automate Remediation of Compliance with Systems Manager</h2>
 
 ![Solution](https://github.com/yemisprojects/aws-resource-compliance-ssm/blob/main/images/SolutionArchitecture.jpg)
 <h4 align="center">Architecture diagram</h4>
