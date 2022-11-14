@@ -1,6 +1,6 @@
 """
-The lambda handler is invoked a Custom Config rule when there are SQS configuration changes.
-and evaluates compliance against a queue by checking if encryption is enabled with a KMS Key
+The lambda handler is invoked by a Custom Config rule when there are SQS configuration changes
+and it evaluates a queue's compliance by checking if encryption is enabled with a KMS Key
 """
 import os
 import json

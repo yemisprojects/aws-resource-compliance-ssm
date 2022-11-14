@@ -1,7 +1,6 @@
 """
-The lambda handler is invoked a Custom Config rule when there are SQS configuration changes.
-It remediate non-compliant queues without an AWS KMS key using a given key and sends emails
-to the resource owner.
+The lambda handler is invoked by an Eventbridge rule when a resource is remediated.
+It sends an email based using an email from a resource tag
 """
 import os
 import re
