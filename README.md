@@ -2,6 +2,8 @@
 
 This repository is used for my [medium blog post](https://medium.com/aws-in-plain-english/simplify-compliance-of-aws-resources-with-automated-remediation-workflows-85083f33a605)
 
+<h2 align="center">Solution Architecture</h2>
+
 ![Solution](https://github.com/yemisprojects/aws-resource-compliance-ssm/blob/main/images/SolutionArchitecture.jpg)
 <h4 align="center"></h4>
 
