@@ -1,7 +1,9 @@
 <h2 align="center">Automate Remediation of Compliance with Systems Manager</h2>
 
+This repository is used for my [medium blog post](https://medium.com/aws-in-plain-english/simplify-compliance-of-aws-resources-with-automated-remediation-workflows-85083f33a605)
+
 ![Solution](https://github.com/yemisprojects/aws-resource-compliance-ssm/blob/main/images/SolutionArchitecture.jpg)
-<h4 align="center">Architecture diagram</h4>
+<h4 align="center"></h4>
 
 <h2 align="center">Technical overview</h2>
 
@@ -27,3 +29,7 @@ cd aws-resource-compliance-ssm && terraform init
 terraform plan 
 terraform apply --auto-approve 
 ```
+
+## Blog Post
+
+[![Image](https://github.com/yemisprojects/aws-resource-compliance-private/blob/main/blog_caption/systems_manager_compliance_blog_caption.png "Simplify Compliance of AWS resources with Automated Remediation Workflows")](https://medium.com/aws-in-plain-english/simplify-compliance-of-aws-resources-with-automated-remediation-workflows-85083f33a605)
